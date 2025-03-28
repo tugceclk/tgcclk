@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 10px;
+    background-color: blueviolet;
+}
+.yazi{
+color: red;
+font-size: 20px;
+font-weight: bold;
+font-family: monospace;
+position: absolute;
+top: 150px;
+
+}
+.b{
+    width: 40px;
+    height: 40px;
+    transition: all 0,2s ease;
+    cursor: pointer;
+    border: solid;
+   
+}
+.box1{
+    background-color: blueviolet;
+
+}
+
+.box2{
+    background-color: cadetblue;
+
+}
+
+.box3{
+    background-color: plum;
+}
+.big{
+    width: 60px;
+    height: 60px;
+}
